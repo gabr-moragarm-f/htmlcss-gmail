@@ -12,23 +12,15 @@ body{
 
 header{
   border-bottom: 1px solid #fff;
-  /* padding: 10px 0; */
+  padding-bottom: 15px;
 }
 
-.image{
-  padding-top: 10px;
-  display:inline-block;
-}
-
-li{
-  display: inline-block;
+img{
+  vertical-align: middle;
 }
 
 h1{
-  line-height: 64px;
-  height: 64px;
-  border: 0;
-  margin: 0;
+  display: inline-block;
 }
 
 nav{
